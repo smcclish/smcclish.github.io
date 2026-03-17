@@ -1,4 +1,4 @@
-## About me
+## Shannon McClish
 Hi! I am an ocean biogeochemist using observations from autonomous platforms and remote sensing to investigate ocean carbon and oxygen cycling. I'm especially interested in how ocean observations can help us understand and predict ocean changes and inform human action. I'm currently a Postdoctoral Research Fellow with the Canadian-Pacific Robotic Ocean Observing Facility [C-PROOF](https://cproof.uvic.ca/) and the Pacific Rim Ocean Data Mobilization and Technology [PRODIGY](https://prodigy.eoas.ubc.ca/) programs. 
 
 ## Active projects
