@@ -19,4 +19,4 @@ Hi! I am an ocean biogeochemist using observations from autonomous platforms and
 
 You can download my CV here:
 
-- [Download CV](cv.pdf)
+- [Download CV](https://github.com/smcclish/smcclish.github.io/blob/e10e94259b2e31b697af8d24e8b6c0ab8418e830/CV_sm26.pdf)
