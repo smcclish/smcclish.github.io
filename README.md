@@ -16,8 +16,4 @@ Hi! I am an ocean biogeochemist using observations from autonomous platforms and
 -**Majority of Southern Ocean seasonal sea ice zone bloom net community production precedes total ice retreat**-
 [published in GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103459)
 
-## CV
 
-You can download my CV here:
-
-- [Download CV](https://github.com/smcclish/smcclish.github.io/blob/e10e94259b2e31b697af8d24e8b6c0ab8418e830/CV_sm26.pdf)
