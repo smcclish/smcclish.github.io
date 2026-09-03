@@ -11,7 +11,7 @@ Hi! I am an ocean biogeochemist using observations from autonomous platforms and
 
 ## Publications
 -**Seasonal re-entrainment of respired organic matter decouples Southern Ocean surface production and annual net community production**-
-[preprint](https://d197for5662m48.cloudfront.net/documents/publicationstatus/243820/preprint_pdf/d94a24f6e2bffee8f7d3123fea25025d.pdf)
+[published in AGU Advances](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2025AV002267)
 
 -**Majority of Southern Ocean seasonal sea ice zone bloom net community production precedes total ice retreat**-
 [published in GRL](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023GL103459)
